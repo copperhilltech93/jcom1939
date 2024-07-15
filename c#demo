@@ -3,3 +3,5 @@ The JCOM.J1939 Gateway Protocol establishes a data exchange between a JCOM.J1939
 Please note: Accessing the JCOM gateways is operating-system-independent, meaning it does not require a specific library. You can communicate with the gateway per serial port, and we provide programming samples for Windows and Linux (see below).
 
 I will not describe the source code in detail since this would require tremendous effort and time. Every programmer with some basic C# experience will be able to recognize the important parts, and I have tried to keep the program as simple as possible. The code explains the gateway’s most important commands and how to receive feedback and data.
+
+For more information, see: https://jcom1939.com/sae-j1939-ecu-simulator-board-programming-with-visual-studio-c/
